@@ -102,4 +102,4 @@ You will also need to have software installed to run and execute a Jupyter Noteb
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. Make sure that you select Python 3.x installer.
 
 # Licensing and Acknowledgements
-Thanks to Udacity for providing access to the IBM data used in this project and guidance
+Thanks to Udacity for providing access to the data used in this project and guidance to implement CNN models
