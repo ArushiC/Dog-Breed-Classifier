@@ -7,8 +7,8 @@ Create a dog breed classifier using Convolutional Neural Network
 ## Project Instructions
 
 1. Clone the repository and navigate to the downloaded folder.
-git clone https://github.com/udacity/dog-project.git
-cd dog-project
+`git clone https://github.com/udacity/dog-project.git
+cd dog-project`
 
 2. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/dogImages`. 
 
@@ -95,6 +95,7 @@ This project requires Python 3.6 and the following Python libraries installed:
 - matplotlib
 - keras
 - glob
+- Pre-built Keras CNN models (ResNet50, Xception etc.)
 
 You will also need to have software installed to run and execute a Jupyter Notebook
 
