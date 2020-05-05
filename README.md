@@ -1,7 +1,6 @@
 # Dog-Breed-Classifier 
 Create a dog breed classifier using Convolutional Neural Network
-
-### For Blog [Click here](https://medium.com/@arushichawla5/dog-breed-classifier-power-of-neural-networks-a277f4ad91be)
+For Blog [Click here](https://medium.com/@arushichawla5/dog-breed-classifier-power-of-neural-networks-a277f4ad91be)
 
 # Project Overview
  In this project design a Convolutional Neural Networks (CNN), to build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, the algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
