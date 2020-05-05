@@ -1,5 +1,5 @@
 # Dog-Breed-Classifier 
-Create a dog breed classifier using Convolutional Neural Network
+Create a dog breed classifier using Convolutional Neural Network. 
 For Blog [Click here](https://medium.com/@arushichawla5/dog-breed-classifier-power-of-neural-networks-a277f4ad91be)
 
 # Project Overview
